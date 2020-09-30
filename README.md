@@ -1,5 +1,5 @@
 # tools
-random ctf tools that i found interesting
+random ctf/osint tools that i found interesting
 
 steganography:
 - online tool that allows the user to f.e. rotate a image:
